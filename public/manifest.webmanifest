@@ -1,0 +1,17 @@
+{
+  "name": "Task Command Center",
+  "short_name": "Tasks",
+  "description": "Markdown-backed task command center for personal and work projects.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#1c5d5a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
